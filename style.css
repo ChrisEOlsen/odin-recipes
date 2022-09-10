@@ -53,10 +53,10 @@
 }
 
 .return-button {
-    font-size: 23px;
+    font-size: 18px;
     padding: 5px;
-    margin-left: 70%;
-    margin-right: 5%;
+    text-align: center;
     border: 2px solid black;
+    margin-left: 5%;
 }
 
