@@ -1,0 +1,61 @@
+.main-title, .all-food-titles, .click-image {
+    color: lightblue;
+    background-color: black;
+    text-align: center;
+    font-size: 45px;
+}
+
+.click-image {
+    font-size: 23px;
+}
+
+.main-links {
+    font-size: 20px;
+}
+
+.main-title.main-links, .all-food-titles {
+    font-family: "Times New Roman";
+}
+
+.image-destination { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+}
+
+.back {
+    background-color: white;
+}
+
+.image-link {
+    width: auto;
+    height: 216px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+#yellow-box {
+    background-color:lightyellow;
+    margin-right: 30%;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    padding-left: 25px;
+    padding-bottom: 12px;
+    border: 2px solid red;   
+}
+
+#description {
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.return-button {
+    font-size: 23px;
+    padding: 5px;
+    margin-left: 70%;
+    border: 2px solid black;
+}
+
